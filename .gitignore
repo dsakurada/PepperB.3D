@@ -107,6 +107,7 @@ applet/
 .clang_complete
 .gcc-flags.json
 /lib/
+.history
 
 # Secure Credentials
 Configuration_Secure.h

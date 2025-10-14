@@ -902,7 +902,7 @@
   #endif // IS_NEWPANEL
 
   #ifndef BEEPER_PIN
-    #define BEEPER_PIN               EXP1_01_PIN  // Most common mapping
+    #define BEEPER_PIN              -1 //EXP1_01_PIN  // Most common mapping
   #endif
 
 #endif // HAS_WIRED_LCD && !LCD_PINS_DEFINED
